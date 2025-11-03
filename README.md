@@ -95,7 +95,8 @@ http://localhost:8501
 ---
 
 ## 📸 Preview
-
+![App Screenshot](screenshots/Legitimate.jpg) 
+![App Screenshot](screenshots/Phishing_or_Fake.jpg)
 Example:
 ```
 🕵️‍♂️ AI Fake Website Detector
@@ -137,6 +138,7 @@ This project is licensed under the **MIT License** — free to use and modify fo
 ---
 
 ### ⭐ Don’t forget to star this repo if you like it!
+
 
 
 
