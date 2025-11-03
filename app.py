@@ -88,4 +88,4 @@ if st.button("🔍 Detect"):
                     st.success(f"✅ **Legitimate Website** (Confidence: {proba*100:.2f}%)")
 
 st.divider()
-st.caption("Developed by **Waqas** — Cybersecurity + AI Project")
+st.caption("Developed by **Waqas** — Cybersecurity Specialist + AI Project")
