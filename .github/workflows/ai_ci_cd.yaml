@@ -60,7 +60,7 @@ jobs:
       run: pip install safety
   
     - name: Run Dependency Scan
-      run: safety scan --no-input
+      run: safety check
 
     
   docker:
